@@ -1,7 +1,15 @@
-# hashr
-### _Password hash generator_
+<p align="center">
+  <img src="https://github.com/stefabg/hashr/raw/master/assets/Hashr-Dark.svg">
+</p>
 
-List of all PHP hashing algorithms ([hash_algos() function](http://php.net/manual/en/function.hash-algos.php)) and their result (and hashing time) for an input string.
+# Hashr! [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+Password hash generator, easy as pie.
+<br/>
 
+## Online Example 
+The app is deployed on heroku, take a look by clicking [here](https://hashr-php.herokuapp.com/)
+<br/>
 
-#### The app is deployed on heroku: [Hashr](https://hashr-php.herokuapp.com/)
+## 🔥 New Interface and Visual Identity
+The app is deployed on heroku, take a look by clicking [here](https://hashr-php.herokuapp.com/)
+<br/>
