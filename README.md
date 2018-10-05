@@ -14,7 +14,7 @@ The app is deployed on heroku, take a look by clicking [here](https://hashr-php.
 > Contribution by [Stéfano Girardelli](https://stefanobg.com)
 🎨  **Logo, Colors and Favicon**
 <p float="left">
-  <img width="300px" src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Colors.png">
+  <img width="300px" src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Colors-Logo.png">
 </p>
 <br/><br/>
 
