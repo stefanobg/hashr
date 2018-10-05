@@ -20,6 +20,6 @@ The app is deployed on heroku, take a look by clicking [here](https://hashr-php.
 
 📱 **Interface**
 <p float="left">
-  <img width="400px" src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Interaction.gif">
+  <img src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Interaction.gif">
 </p>
 <br/><br/>
