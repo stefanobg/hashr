@@ -11,5 +11,8 @@ The app is deployed on heroku, take a look by clicking [here](https://hashr-php.
 <br/><br/>
 
 ## 🔥 New Interface and Visual Identity
-The app is deployed on heroku, take a look by clicking [here](https://hashr-php.herokuapp.com/)
+# Colors
+<p float="left">
+  <img src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Colors.png">
+</p>
 <br/><br/>
