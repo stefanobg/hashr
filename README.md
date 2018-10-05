@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Hashr-Dark.svg">
+  <img src="https://raw.githubusercontent.com/stefanobg/hashr/master/assets/Hashr-Dark.png">
 </p>
 
 # Hashr! [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
